@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 class Demo09 {
-    String Cust_Name = "Pavan kumar";
+    String Cust_Name = "Navya";
     long Account_no = 123456;
     Double Balance = 10000.00;
 
